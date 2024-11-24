@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanhub14
+- 👋 Hi, I’m Santoshi
 - 👀 I’m interested in learning new things at the moment
 - 🌱 I’m currently learning POWERBI, SQL, R and PYTHON
 - 📫 How to reach me . https://www.linkedin.com/in/santoshi-yellenki
